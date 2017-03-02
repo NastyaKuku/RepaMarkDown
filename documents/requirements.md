@@ -1,5 +1,5 @@
 #  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Мобильное приложение
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; "ДокторЧто? ДокторГде? ДокторКогда?"
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; "ДокторКто? ДокторГде? ДокторКогда?"
 
 ### Концепция проекта:
 
