@@ -21,6 +21,9 @@
 ##### Личный кабинет
 
 ![4](https://pp.userapi.com/c837431/v837431386/2f214/Z788UClz2xs.jpg) 
+
+Рассмотрим все кнопки по-порядку
+
 ![4](https://pp.userapi.com/c837431/v837431386/2f2ae/o8lebrmw5w0.jpg)
 ![4](https://pp.userapi.com/c837431/v837431386/2f2b6/QNDrRelyK_c.jpg) 
 ![4](https://pp.userapi.com/c837431/v837431386/2f2be/tdUFQk-51Gk.jpg)
