@@ -3,6 +3,8 @@
 
 ###   Диаграмма прецедентов (use-case)
 
+![1](https://pp.userapi.com/c837431/v837431386/2f506/bpYpiJOy-ps.jpg)
+
 ###   Диаграмма сущность-связь (ER-диаграмма)
 
 ![1](https://pp.userapi.com/c837431/v837431386/2f41f/6DQF5xvDVq0.jpg)
