@@ -96,3 +96,4 @@
 ![](https://pp.userapi.com/c837431/v837431386/2f1e4/ji14JwHnM0o.jpg)
 
 ###   Диаграмма классов
+![1](https://pp.userapi.com/c638325/v638325386/31775/63VbCVHVU_I.jpg)
